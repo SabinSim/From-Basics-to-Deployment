@@ -1,6 +1,6 @@
 
 
-# Week 1 | Day 1 Mission: Understanding and Implementing the Foundation of Web Communication
+# Day 1 Mission: Understanding and Implementing the Foundation of Web Communication
 
 ## 💡 Core Problem Identification
 
